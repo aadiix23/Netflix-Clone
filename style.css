@@ -9,9 +9,28 @@ background-position: center;
 background-attachment: fixed;
 background-size: cover;
 height: 100vh; 
+position: relative;
 width: 100%;
 }
+.main::before {
+    content: "";
+    position: absolute;
+    inset: 0; 
+    background: rgba(0, 0, 0, 0.6); 
+    z-index: 0;
+}
 .main nav{
-    background-color: brown;
+    display: flex;
     position: relative;
+    z-index: 1;
+    max-width: 60vw;
+    margin-top: 20px;
+    padding: 20px;
+    margin: auto;
+    justify-content: space-between;
+}
+.navbtn{
+    font-family: Netflix Sans;
+    font-size: 20px;
+    
 }
