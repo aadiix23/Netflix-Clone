@@ -8,7 +8,7 @@
 background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/75b0ed49-75ab-4a63-bd45-37bc2c95cb73/web/IN-en-20250623-TRIFECTA-perspective_ae5833b7-6ce5-4e88-853e-014f38c506f1_large.jpg);
 background-repeat: no-repeat;
 background-position: center;
- font-family: "Roboto", sans-serif;
+font-family: "Roboto", sans-serif;
 background-attachment: fixed;
 background-size: cover;
 height: 90vh; 
@@ -51,7 +51,7 @@ width: 100%;
     border: none;
 }
 .middleportion{
-color: white;
+    color: white;
     font-family: sans-serif;
     margin: auto;
     font-size: xx-large;
@@ -100,8 +100,8 @@ font-family: "Roboto", sans-serif;
 
 }
 .imputmail{
-display: flex;
-font-family: "Roboto", sans-serif;
+    display: flex;
+    font-family: "Roboto", sans-serif;
     padding: 3%;
     gap: 11px;
 }
@@ -111,13 +111,13 @@ height: 90vh;
 font-family: "Roboto", sans-serif;
 }
 .headii{
-        display: flex;
+    display: flex;
     background-color: black;
     color: white;
     font-family: "Roboto", sans-serif;
     font-size: 30px;
     display: felx;
-    margin-left: 12vh;
+    margin-left: 19vh;
     padding-top: 20px;
 }
 .morereasons{
@@ -125,26 +125,26 @@ font-family: "Roboto", sans-serif;
     color: white;
     justify-content: center;
     font-family: "Roboto", sans-serif;
-    max-width: 100vw;
+    max-width: 75vw;
     display: inline-flex;
-    padding: 15px 100px 0px 100px;
+    padding: 20px 169px 0px 140px;
     margin: auto;
     gap: 30px;
 }
 .dibba{
     font-family: "Roboto", sans-serif;
-    height: 22vw;
+    font-size: 18px;
     border-radius: 30px;
     width: -webkit-fill-available;
-    padding: 14px 15px 0px 0px;
+    padding: 14px 15px 40px 0px;
     padding-left: 25px;
     background: #2e2466;
     background: linear-gradient(90deg, rgba(46, 36, 102, 1) 3%, rgba(94, 53, 93, 1) 75%);
 }
 .heading{
-    font-size: 29px;
+    font-size: 40px;
     gap: 5px;
-    padding-bottom: 20px;
+    padding-bottom: 18px;
     font-family: "Roboto", sans-serif;
     font-weight: 800;
 }
