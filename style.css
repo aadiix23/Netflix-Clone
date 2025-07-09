@@ -107,7 +107,7 @@ font-family: "Roboto", sans-serif;
 }
 .section2{
 background-color: black;
-height: 90vh;
+height: 45vh;
 font-family: "Roboto", sans-serif;
 }
 .headii{
@@ -117,7 +117,7 @@ font-family: "Roboto", sans-serif;
     font-family: "Roboto", sans-serif;
     font-size: 30px;
     display: felx;
-    margin-left: 19vh;
+    margin-left: 17vh;
     padding-top: 20px;
 }
 .morereasons{
@@ -127,9 +127,10 @@ font-family: "Roboto", sans-serif;
     font-family: "Roboto", sans-serif;
     max-width: 75vw;
     display: inline-flex;
-    padding: 20px 169px 0px 140px;
+    padding: 20px 170px 0px 170px;
     margin: auto;
     gap: 30px;
+    height: 37vh;
 }
 .dibba{
     font-family: "Roboto", sans-serif;
@@ -148,7 +149,52 @@ font-family: "Roboto", sans-serif;
     font-family: "Roboto", sans-serif;
     font-weight: 800;
 }
-
+.fandq{
+        background-color: black;
+}
+.questbox{
+color: white;
+    background-color: #565555;
+    margin-left: 9%;
+    padding: 17px 17px 16px 31px;
+    max-width: 73vw;
+    padding: 30px;
+    margin-top: 30px;
+    font-size: 23px;
+}
+.section3 .middleportion{
+    color: white;
+    font-family: sans-serif;
+    margin: auto;
+    background-color: black;
+    font-size: xx-large;
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    max-width: 45%;
+    padding-top: 3%;
+    text-align: center;
+}
+.section3{
+    background-color: black;
+}
+.footer{
+        display: flex;
+    color: #565555;
+    background-color: black;
+    justify-content: space-around;
+    list-style: none;
+    padding-top: 50px;
+        max-width: 70vw;
+    margin: auto;
+}
+li{
+    list-style: none;
+}
+.footext .navbtneng{
+        margin-left: 17%;
+    margin-top: 7%;
+  border-color:  #565555;
+}
 
 
 
